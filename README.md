@@ -74,5 +74,5 @@ All calculations are **estimations for educational purposes only**.
 
 ## 👤 Author
 
-Your Name\
+Tharaneeshwaran Srinivasan
 Student \| Frontend Developer \| Cybersecurity Enthusiast
