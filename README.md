@@ -78,3 +78,5 @@ Tharaneeshwaran Srinivasan
 
 Student \| Frontend Developer \| Cybersecurity Enthusiast
 
+📧 Email: tharaneeshwaran.s.ciet@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/tharaneeshwaran-srinivasan-0069a22b7/
