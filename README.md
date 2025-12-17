@@ -12,7 +12,7 @@ for **GDG events, hackathons, college projects, and portfolios**.
 ## 🚀 Live Demo
 
 👉 **Live Website:**\
-https://Tharaneeshwaran-Spark.github.io/password-strength-checker
+https://passwordstrengthchecker01.netlify.app/
 
 👉 **GitHub Repository:**\
 https://github.com/Tharaneeshwaran-Spark/password-strength-checker
@@ -77,3 +77,4 @@ All calculations are **estimations for educational purposes only**.
 Tharaneeshwaran Srinivasan
 
 Student \| Frontend Developer \| Cybersecurity Enthusiast
+
