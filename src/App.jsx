@@ -18,8 +18,7 @@ function App() {
   };
 
   return (
-    <>
-      {/* ANIMATIONS */}
+    <>{}
       <style>
         {`
           @keyframes glowPulse {
